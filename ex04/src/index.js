@@ -1,9 +1,9 @@
 function main(){
     //only change code below this line
-    
+    var x = 10;
+    var y = x;
     //only change code abowe this line
-    //one row coment
-/*coment*/
+    return[x,y];
 }
 console.log(main());
 module.exports = main;
